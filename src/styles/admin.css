@@ -1,0 +1,29 @@
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: 50;
+  color: white;
+}
+
+.sidebar {
+  width: 300px;
+  background-color: #4F2A2A;
+  position: fixed;
+  height: 100vh;
+}
+
+label{
+  margin-left: 5px;
+}
+
+.links{
+  margin-top: 20;
+}
+
+.bodyRAD{
+  margin-bottom: 50px;
+}
+
+.content {
+  margin-left: 320px;
+}
